@@ -248,8 +248,6 @@ span{
     flex-direction: column;
     text-align: center;
     padding: 0 4rem;
-    transform: translateY(100%);
-    transform: .5s ease;
 }
 .projects-box:hover .project-layer{
     transform: translateY(0);
