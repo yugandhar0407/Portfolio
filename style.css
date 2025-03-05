@@ -249,9 +249,7 @@ span{
     text-align: center;
     padding: 0 4rem;
 }
-.projects-box:hover .project-layer{
-    transform: translateY(0);
-}
+
 .project-layer h4{
     font-size: 3rem;
 }
